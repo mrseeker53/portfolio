@@ -4,4 +4,4 @@
 
 Hi! I am Nayeem
 <br/>
-Software Engineer | Full Stack Developer (MERN stack)
+- Software Engineer | Full Stack Developer (MERN stack)
