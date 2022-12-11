@@ -1,7 +1,7 @@
-# Portfolio - [Nayeem]()
+# Portfolio - [Nayeem](https://mrseeker53-df0e7c.netlify.app/)
 
 ## About
 
 Hi! I am Nayeem
 <br/>
-- Software Engineer | Full Stack Developer (MERN stack)
+A Full Stack Developer (MERN stack)
